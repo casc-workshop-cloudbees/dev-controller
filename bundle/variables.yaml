@@ -1,0 +1,4 @@
+variables:
+- team: casc-workshop-cloudbees
+- admin-user: cniweb-admin
+- manager-user: cniweb
